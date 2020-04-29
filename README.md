@@ -44,3 +44,6 @@ Youtube:[itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ)
 - Adacity
 ### Mac
 - Audio Hijack
+
+## 字幕
+Arctime [官网](https://arctime.org/index.html) 【跨平台Windows、Mac、Linux都有】
