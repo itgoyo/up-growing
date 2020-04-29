@@ -45,6 +45,16 @@ Youtube:[itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ)
 ### Mac
 - Audio Hijack
 
+## 摄像头
+- 入门 罗技C920
+- 进阶 微单/单反 + 视频采集卡
+- 如果真没有或者说比较害羞不想露脸可以不用
+
+## 麦克风
+- Blue Yeti 【闲鱼二手600左右】
+- Blue Nessie 【比较重不是很推荐】
+- 最好买一个电容麦克风，不要买几十块钱的麦克风不然底噪真的很影响
+
 ## 字幕
 Arctime [官网](https://arctime.org/index.html) 【跨平台Windows、Mac、Linux都有】
 
