@@ -3,9 +3,13 @@
 
 ## 本人信息
 各大类平台ID：浮生甲第ITGOYO
+
 Bilibili:[浮生甲第ITGOYO](https://[https://space.bilibili.com/12767066](https://space.bilibili.com/12767066))
+
 Youtube:[itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ)
+
 西瓜视频:[浮生甲第ITGOYO]([https://www.ixigua.com/home/4089776776679278](https://www.ixigua.com/home/4089776776679278))
+
 抖音视频:[浮生甲第ITGOYO](175789846)
 ## 打造什么样的账号
 ![](https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/20200429095203.png)
@@ -20,3 +24,16 @@ Youtube:[itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ)
 - 电脑：装机猿、翼王等
 - 鬼畜：伊丽莎白鼠等
 列举那么多主要就是要告诉大家，作为up要有自己专注的方向，或者说是自己擅长的领域,这样才能收获和自己志同道合的粉丝，也有共同的话题。
+
+## 录制软件
+### Windows
+- Bandicam
+- Camtasia Studio
+- OBS
+### Mac
+- ScreenFlow
+- Camtasia Studio
+- OBS
+### Linux
+- Simple Screen Recorder
+- OBS
