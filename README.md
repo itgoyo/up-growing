@@ -47,3 +47,24 @@ Youtube:[itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ)
 
 ## 字幕
 Arctime [官网](https://arctime.org/index.html) 【跨平台Windows、Mac、Linux都有】
+
+## 片头
+[Panzoid](https://panzoid.com/)
+
+## 片尾
+![片尾](img/pw.png)
+![片尾gif](img/pw.gif)
+这就我网上搞到的一个AE的动态模板需要的朋友可以关注我的微信公众号【Fullstacker】然后回复关键字【片尾】来获取下载地址。
+## 剪辑软件
+- Pr
+- Final Cut Pro X
+- 会声会影
+- DaVinci Resolve
+
+## 剪辑教程
+### Final Cut Pro X
+- [Final Cut Pro X 10.4.7 中文基础教程](https://www.bilibili.com/video/BV1Kt411S7TX?from=search&seid=3552543045643745489)
+
+### Pr
+- [0基础急速上手视频制作！UP主必备！](https://www.bilibili.com/video/BV1Ts411C7Yd?from=search&seid=5328521007088471720)
+- [Pr 教程全 57 集](https://www.bilibili.com/video/BV1bb411F7Sh?from=search&seid=5328521007088471720)
