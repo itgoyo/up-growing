@@ -53,6 +53,7 @@ Arctime [官网](https://arctime.org/index.html) 【跨平台Windows、Mac、Lin
 
 ## 片尾
 ![片尾](img/pw.png)
+
 ![片尾gif](img/pw.gif)
 这就我网上搞到的一个AE的动态模板需要的朋友可以关注我的微信公众号【Fullstacker】然后回复关键字【片尾】来获取下载地址。
 ## 剪辑软件
@@ -68,3 +69,52 @@ Arctime [官网](https://arctime.org/index.html) 【跨平台Windows、Mac、Lin
 ### Pr
 - [0基础急速上手视频制作！UP主必备！](https://www.bilibili.com/video/BV1Ts411C7Yd?from=search&seid=5328521007088471720)
 - [Pr 教程全 57 集](https://www.bilibili.com/video/BV1bb411F7Sh?from=search&seid=5328521007088471720)
+
+### 涨粉秘籍 [来自于涨粉军师的文章]
+- [B站UP主必读的涨粉干货：粉丝运营](https://mp.weixin.qq.com/s/sBRLJD-sVgLwOdD4K5Nz3g)
+
+- [B站UP主必读的涨粉干货：幽默原理](https://mp.weixin.qq.com/s/fvozibn3D-g-ySN54H4rkg)
+
+- [B站UP主必读的涨粉干货：MCN 机构](https://mp.weixin.qq.com/s/GL_9ZdzHX4GQbH4tqnU_IA)
+
+- [B站UP主必读的涨粉干货：内容选材](https://mp.weixin.qq.com/s/w99HWgX2dfdX87b9fEQKEQ)
+
+- [B站UP主必读的涨粉干货：个人品牌](https://mp.weixin.qq.com/s/_UADH8BpmWOGPv98p_cwPw)
+
+- [【UP主慎入】在B站如何起一个爆款标题？](https://mp.weixin.qq.com/s/zFrHk3agQGPvpfViM9SMZA)
+
+- [@视角姬 都在用的B站Vlog秘诀【密】](https://mp.weixin.qq.com/s/-o4MK6lnB88MvvZIYRxXcQ)
+
+- [你TM就是个低创UP主！](https://mp.weixin.qq.com/s/t_wz_DGftBDURgd3wM5phw)
+
+- [B站审核速度慢？一觉醒来还在审？](https://mp.weixin.qq.com/s/GITEDR323EJjyxuwA8MMDA)
+
+- [白嫖是一种文化！](https://mp.weixin.qq.com/s/dLo8Tij3OJKGHdAtwdgOcA)
+
+- [【B站现状】硬核科普，让你硬不起来！](https://mp.weixin.qq.com/s/uU5O2NYEvfLUgUNLFyCl-w)
+
+- [催更的是爸爸，拖更的是爷爷...](https://mp.weixin.qq.com/s/EiMwetMKnsHdn1Ky0lV-Vg)
+
+- [g h s 的 U P 主 凭 什 么 这 么 火 ？](https://mp.weixin.qq.com/s/dRM_H0HHr_nVT1WVbAyRmQ)
+
+- [B站UP主如何优雅地高产？](https://mp.weixin.qq.com/s/9fHuyNgGvgzWOd9S16nsLQ)
+
+- [UP主起昵称的6条黄金法则和5个常见大坑！](https://mp.weixin.qq.com/s/YyrehUYqNrlT7GgHf3_4pg)
+
+- [现在做UP主还来得及吗？](https://mp.weixin.qq.com/s/We5_9ViFtRBPNz2QxaOJwQ)
+
+- [关于B站：有个“萌星UP主”计划？](https://mp.weixin.qq.com/s/LftA3vdC9QEyI_ah5STCoA)
+
+- [抓住B友的特点，成为合格的UP主。](https://mp.weixin.qq.com/s/DDb0GTNbZz0k0dwsjCf7oQ)
+
+- [如此凄惨... 这就是数百位UP主的数据？](https://mp.weixin.qq.com/s/eAiEJ6qlbtcLyxTKUjgMlA)
+
+- [UP主如何定位？【萌星计划课程笔记】](https://mp.weixin.qq.com/s/dSFaIMS8u1P13hqzNIucuQ)
+
+- [视频要有「节奏感」【萌星计划课程笔记】](https://mp.weixin.qq.com/s/QKYFviDqyTU9IwSuzlJFWg)
+
+- [刚上路5天，就喜提热门？](https://mp.weixin.qq.com/s/_-ACKLBR_9HaDukaqYnKYw)
+
+- [UP主的危机公关策略](https://mp.weixin.qq.com/s/ykwgtA-A3SIxryudrV-kVA)
+
+- [加入计划后，涨粉15倍！](https://mp.weixin.qq.com/s/bywnxytInl7B7bbInN-X5w)
